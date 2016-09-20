@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 21, 2016, 9:02:53 PM
+    Author     : wpatan
+*/
+
+
+#main-txt
+{
+    color: #717171;
+    display: block;
+    font-family: sans-serif;
+    font-size: 16px;
+
+}
+
+#main-head {
+
+    color: #0079ca;
+    font-weight: normal;
+    margin: 0;
+
+    font-family: sans-serif;
+    font-size: 18px;
+
+}
+
+.welcome-form{
+    margin: 20px;
+}
+
+.form-horizontal{
+
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+footer {
+
+    margin-top: 50px;
+    margin-left: 20px;
+}
+/* Fix alignment issue of label on extra small devices in Bootstrap 3.2 */
+.form-horizontal .control-label{
+    padding-top: 7px;
+}
+
+#head-img {
+    background-image: url("../images/welcome-img.jpg"); 
+    height: 300px;
+
+}
+
+.custtext{
+
+    color: white;
+
+}
+
+
+
+

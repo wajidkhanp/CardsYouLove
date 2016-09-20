@@ -1,0 +1,43 @@
+
+/* 
+    Created on : Feb 10, 2016, 3:24:00 PM
+    Author     : wpatan
+*/
+
+.form-control{
+    
+    width: 50%
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input.invalid {
+    
+    border: 2px solid red;
+}
+
+input.valid {
+    
+     border: 2px solid green;
+}
+
+.valuey {
+    
+    color: purple;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+
+#annualSavings {
+    
+    color: darkgreen;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
